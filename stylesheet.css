@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color: green;
+    font-size: 50px;
+    font-weight: normal;
+    font-family: 'Pacifico', cursive;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+#container {
+    width: 50%;
+    margin: 0 auto;
+}
+
+#timerContainer {
+    border: solid red 30px;
+    border-radius: 55px;
+    padding: 5px;
+    font-family: 'Nova Round', cursive;
+    font-weight: 100;
+}
+
+button {
+    border-radius: 9px;
+    font-weight: 400;
+    border: solid black 1px;
+    background-color: #fff;
+    color: black;
+    width: 60px;
+    height: 30px;
+}
+
+#timeLeft {
+    font-size: 40px;
+}
+
+#break, #session {
+    font-size: 25px;
+}
+
+.adjust {
+    font-size: 17px;
+    width: 45px;
+    height: 23px;
+}
